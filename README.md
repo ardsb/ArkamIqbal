@@ -38,9 +38,11 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ardsb&show_icons=true&locale=en" alt="ardsb" /></p>
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ardsb" alt="ardsb" /></a> </p>
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ardsb&show_icons=true&locale=en&layout=compact" alt="ardsb" /></p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ardsb" alt="ardsb" /></a> </p>
+
 
 
 
