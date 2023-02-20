@@ -10,9 +10,9 @@
 
 - 🔭 I’m currently working at **univiser.io**
 
-- 🌱 I’m currently learning **React.js**
+- 🌱 I’m currently learning **Swift 4**
 
-- 👯 I’m looking to collaborate on **front-end related libraries or systems**
+- 👯 I’m looking to collaborate on **front-end related libraries**
 
 - 🤝 I’m looking for help with **a front-end developer expert**
 
